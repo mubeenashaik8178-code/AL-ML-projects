@@ -7,3 +7,5 @@
 [Open in Google Colab](https://colab.research.google.com/drive/1g8v7Ni2Ty51r3Ya5MbtWPpf9QvsMIZEw?usp=sharing)
 ### Iris Flower Classification
 [Open in Google Colab](https://colab.research.google.com/drive/1V9cMRrvDNBcOUtFSNDgk4-cuSN6R3y7s?usp=sharing) 
+### Frozen Lake Q-Learning
+[Open in Google Colab](https://colab.research.google.com/drive/1jdW3KzPAJ5ueEbeDovO5xILF11UaMfMk?usp=sharing)
